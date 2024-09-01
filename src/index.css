@@ -1,0 +1,11 @@
+body {
+  font-family: "Inter", sans-serif;
+  color: white;
+  background-color: #181e34;
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  min-height: 100vh;
+}
