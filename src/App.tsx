@@ -7,6 +7,7 @@ interface Demand {
   name: string;
   hours: number;
   order: number;
+  field?: string;
 }
 
 interface Developer {
